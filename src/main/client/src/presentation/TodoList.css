@@ -1,0 +1,23 @@
+.icon-delete:hover {
+    color: crimson;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.icon-edit:hover {
+    color: cornflowerblue;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.todo-list:hover {
+    background-color: aliceblue;
+}
+
+.todo-list {
+    width: 100% !important;
+}
+
+.todo-list-parent {
+    padding-bottom: 20px;
+}
